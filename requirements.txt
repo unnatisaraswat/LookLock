@@ -2,4 +2,6 @@
 streamlit
 numpy
 opencv-python-headless
-
+deepface
+playsound
+pywhatkit
